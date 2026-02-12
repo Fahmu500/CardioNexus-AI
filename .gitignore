@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment secrets
+.env
+.env.local
+.env.*.local
+
+# Virtual environments
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Models & Data (too large for git)
+models/
+data/
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.tflite
+
+# Logs
+logs/
+*.log
+
+# Keys & Secrets
+keys/
+*.key
+*.pem
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,21 @@
+# =============================================================================
+# CardioNexus AI Suite - Installation Options
+# =============================================================================
+#
+# CHOOSE YOUR PATH:
+#
+# 1. QUICK DEMO (no heavy deps):
+#    pip install numpy pandas scikit-learn
+#    python examples/quick_demo.py
+#
+# 2. CORE (Dashboard + Basic ML):
+#    pip install -r requirements-core.txt
+#
+# 3. FULL (All Features - 16GB+ RAM, GPU recommended):
+#    pip install -r requirements-core.txt
+#    pip install -r requirements-ml.txt
+#    pip install -r requirements-medical.txt
+#    pip install -r requirements-advanced.txt
+# =============================================================================
+
+-r requirements-core.txt
