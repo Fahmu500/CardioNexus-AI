@@ -1,14 +1,17 @@
 <p align="center">
   <h1 align="center">🫀 CardioNexus AI Suite</h1>
   <p align="center">
-    <strong>Open-Source Cardiac AI Platform — 22 AI Models, 3,300 Lines, One Mission: Save Lives</strong>
+    <strong>Predict Cardiac Risk Before Symptoms Appear — Using Routine Data</strong>
   </p>
   <p align="center">
-    <a href="#architecture">Architecture</a> •
-    <a href="#novel-risk-factors">Novel Risk Factors</a> •
-    <a href="#ai-models">AI Models</a> •
-    <a href="#quick-start">Quick Start</a> •
-    <a href="#advanced-version">Advanced Version</a> •
+    Open-source preventive cardiac AI platform with novel risk pathways no commercial system has yet.
+  </p>
+  <p align="center">
+    <a href="#the-problem">Problem</a> •
+    <a href="#the-solution">Solution</a> •
+    <a href="#quick-demo">Quick Demo</a> •
+    <a href="#novel-risk-factors">Novel Factors</a> •
+    <a href="#roadmap">Roadmap</a> •
     <a href="#support-this-project">Support</a>
   </p>
   <p align="center">
@@ -24,16 +27,41 @@
 ---
 
 > **Cardiovascular disease kills 17.9 million people every year — one person every 1.8 seconds.**
-> I built this to change that. Not for profit. For humanity.
+> Often silently, until it's too late.
+> 
+> I built CardioNexus AI to help change that — through early, preventive intelligence.
+> 
+> Not for profit. For humanity.
 >
 > — *Mohamed Salih R.S., Solo Architect*
 
-> **⚠️ MEDICAL DISCLAIMER: RESEARCH PROTOTYPE ONLY**
->
-> This software is **NOT a certified medical device** and is intended for **research and educational purposes only**.
-> It should **NEVER** be used for actual clinical diagnosis, treatment decisions, or patient care without proper
-> validation and regulatory approval. Always consult qualified healthcare professionals for medical decisions.
-> See [DISCLAIMER.md](DISCLAIMER.md) for full legal notice.
+**⚠️ MEDICAL DISCLAIMER: RESEARCH PROTOTYPE ONLY**  
+This is **NOT** a certified medical device. For research/education only. Never use for clinical decisions.  
+See [DISCLAIMER.md](DISCLAIMER.md) for details.
+
+### The Problem
+Heart disease progresses without obvious symptoms. Traditional screening relies on expensive imaging and specialists — leaving gaps in early detection, especially in underserved areas.
+
+### The Solution
+CardioNexus AI analyzes routine clinical data to flag potential risks early — acting as a preventive decision-support layer for:
+- Screening & triage
+- Telemedicine
+- Rural/remote care
+- Lifestyle guidance
+
+Includes **novel pathways** like Second Heart (calf muscle pump) and Gut-Heart Axis — emerging factors backed by research.
+
+### Quick Demo (Runs in Seconds!)
+No heavy installs needed:
+```bash
+pip install numpy pandas scikit-learn
+python examples/quick_demo.py
+See healthy vs. high-risk patient examples instantly.
+Use Cases
+
+Rural Clinics: Prioritize limited resources.
+Telemedicine: Flag patients for urgent review.
+Preventive Programs: Early intervention insights.
 
 ---
 
