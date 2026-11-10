@@ -31,7 +31,7 @@
 > 
 > I built CardioNexus AI to help change that — through early, preventive intelligence.
 > 
-> Not for profit. For humanity.
+> 
 >
 > — *Mohamed Salih R.S., Solo Architect*
 
@@ -443,8 +443,8 @@ If you are an investor, venture capital firm, hospital system, or research insti
 
 ## The Story Behind This Project
 
-I'm Mohamed Salih R.S., a Tamilnadu(the Healthcare capital of INDIA) expat working in SAUDI ARABIA near Al-Ahsa. I don't have a team. I don't have funding. I don't have a GPU cluster. I built this entire platform — every line, every model, every clinical hypothesis — on an ASUS laptop with 8GB RAM and a GTX 1050.
-Iam inspired by the SAUDI ARABIA 2030 VISION and striving hard to built a healthy Heart and renal care AI program for everyone in this beautiful world.
+I'm Mohamed Salih R.S., from  Tamilnadu,India . I don't have a team. I don't have funding. I don't have a GPU cluster. I built this entire platform — every line, every model, every clinical hypothesis — on an ASUS laptop with 8GB RAM and a GTX 1050.
+
 **Why?**
 
 Because 17.9 million people die from heart disease every year, and I believe AI can change that. Not AI locked behind corporate walls. Not AI that only rich hospitals can afford. AI that is open, accessible, and built on genuine clinical understanding.
@@ -461,15 +461,7 @@ If you believe in this mission, you can help:
 - 📢 **Share** with cardiologists, AI researchers, and healthcare investors
 - 💰 **Fund the mission** — see [Support This Project](#support-this-project)
 
-Iam simultaneously working on 15+ Elite AI Projects in my spare time. pls stayed tuned for the release of my next 3 projects which are going to ba an Absolute world stunner Insha ALLAH.
 
-Software Engineering Intelligence suite- The Autonomous Full stack ,Senior software engineer like acting Vibe Engineering suite like of which is not yet introduced in the world yet (as per my knowledge).
- 
-A sophisticated production-ready enterprise grade Systems Thinking AIops suite.
-
-A HIVEMIND Agent -   A production-grade, enterprise-ready autonomous AI agent very intelligent than the recently trending AI bots.
-
- i will update the list here one by one...
 
 ---
 
